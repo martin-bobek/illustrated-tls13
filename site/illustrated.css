@@ -45,7 +45,7 @@ h5 {
 
 pre {
 	margin: 1em 0;
-	overflow: scroll;
+	overflow: auto;
 	-ms-overflow-style: scrollbar;
 }
 
@@ -57,7 +57,7 @@ pre code {
 	background-color: black;
 	padding: 0.5em;
 	border-radius: 5px;
-	overflow: scroll;
+	overflow: auto;
 	-ms-overflow-style: scrollbar;
 }
 
